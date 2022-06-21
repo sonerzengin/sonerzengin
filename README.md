@@ -11,8 +11,14 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me: sonerzengin9@gmail.com || mail.sonerzengin@gmail.com
 
--Social Media : instagram.com/soner_zengin_ <br>
-                twitter.com/ze71758649 <br>
-                linkedin.com/in/sonerzengin/
+-<u>Social Media :</u>
+<ul>
+  <li>instagram.com/soner_zengin_</li>
+  <li>twitter.com/ze71758649</li>
+  <li>linkedin.com/in/sonerzengin/</li>
+</ul>
+  
+                
+                
 
 
