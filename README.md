@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Html,Css,BootStrap,Js...
+- 🔭 I’m currently working on Html,Css,BootStrap,JavaScript...
+
+- 📫 Also using Front End technologies like Bootstrap,ChakraUI,TailwindCSS,SASS... 
 
 - 🌱 I’m currently learning  React.js,C# etc.
 
