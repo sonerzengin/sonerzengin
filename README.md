@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 📫 Also using Front End technologies like Bootstrap,ChakraUI,TailwindCSS,SASS... 
 
-- 🌱 I’m currently learning  React.js,C# etc.
+- 🌱 I’m currently learning  React.js,Redux etc.
 
 - 📫 How to reach me: sonerzengin9@gmail.com || mail.sonerzengin@gmail.com
 
