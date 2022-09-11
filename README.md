@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Html,Css,JavaScript...
+- 🔭 I’m currently working on Html,Css,JavaScript,ReactJS,NextJS...
 
 - 📫 Also using Front End technologies like Bootstrap,ChakraUI,TailwindCSS,SASS... 
 
-- 🌱 I’m currently learning  React.js,Redux etc.
+- 🌱 I’m currently learning Apollo GraphQL...
 
 - 📫 How to reach me: sonerzengin9@gmail.com || mail.sonerzengin@gmail.com
 
